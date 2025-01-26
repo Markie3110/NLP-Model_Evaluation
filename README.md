@@ -4,8 +4,8 @@ The following repository serves to act as a database on which all the notebooks 
 
 Table of Contents
 ----------------------
-1. [How to Install](https://github.com/Markie3110/Research_Track_1-Assignment_1/tree/master#how-to-install)
-2. [Repository Contents](https://github.com/Markie3110/Research_Track_1-Assignment_1/tree/master#how-to-run)
+1. [How to Install](https://github.com/Markie3110/NLP-Model_Evaluation?tab=readme-ov-file#how-to-install)
+2. [Repository Contents](https://github.com/Markie3110/NLP-Model_Evaluation?tab=readme-ov-file#how-to-install)
 
 How to Install
 ----------------------
@@ -24,11 +24,13 @@ Repository Contents
 ----------------------
 The following can be found in this repository:
 
-1. Python Notebook files with Outputs
+1. Python Notebook files with Outputs<br>
 Contains the code stored in notebooks that was used during the evaluation along with the outputs in the terminal.
 
-3. Python Notebook files without Outputs
+2. Python Notebook files without Outputs<br>
 Exactly the same as the prior file except without the outputs. To be used if one wishes to execute the code on their system.
 
-5. Output files
+3. Output files<br>
 Contains both the CSV files that were created during the evaluation, as well as Excel readable formats of the same.
+
+4. The End-Term Report
