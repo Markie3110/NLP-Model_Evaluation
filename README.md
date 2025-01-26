@@ -11,13 +11,13 @@ How to Install
 ----------------------
 To download the repsitory's contents to your local system you can do one of the following:
 
-1. Using git from your local system
+1. Using git from your local system<br>
 To download the repo using git simply go to your terminal and go to the directory you want to save the project in. Type the following command to clone the repository to your local folder:
 ```bash
 $ git clone "https://github.com/Markie3110/NLP-Model_Evaluation.git"
 ```
 
-2. Download the .zip from Github
+2. Download the .zip from Github<br>
 In a browser go to the repository on Github and download the .zip file availabe in the code dropdown box found at the top right. Unzip the file to access the contents.
 
 Repository Contents
