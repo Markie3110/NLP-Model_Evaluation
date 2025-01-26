@@ -1,12 +1,11 @@
 Advanced Natural Language Processing - End-Term Report Repository
 ================================
-The following repository serves to act as a database on which all the notebooks and outputs files created during the undertaking of the end-term report for the "Advanced Natural Language Processing" class at Keio University, Tokyo, are stored. The author of the report along with this repository is Mark Henry Dsouza, a 2nd Year Masters student studying Advanced Robotics at the University.
+The following repository serves to act as a database on which all the notebooks and outputs files created during the undertaking of the end-term report for the "Advanced Natural Language Processing" class at Keio University, Tokyo, are stored. In this report, the author compares the performance of two NLP models, T5 and Opus-MT, in the area of machine translation. The author of the report along with this repository is Mark Henry Dsouza, a 2nd Year Masters student studying Advanced Robotics at the university.
 
 Table of Contents
 ----------------------
 1. [How to Install](https://github.com/Markie3110/Research_Track_1-Assignment_1/tree/master#how-to-install)
 2. [Repository Contents](https://github.com/Markie3110/Research_Track_1-Assignment_1/tree/master#how-to-run)
-
 
 How to Install
 ----------------------
@@ -23,4 +22,13 @@ In a browser go to the repository on Github and download the .zip file availabe 
 
 Repository Contents
 ----------------------
+The following can be found in this repository:
 
+1. Python Notebook files with Outputs
+Contains the code stored in notebooks that was used during the evaluation along with the outputs in the terminal.
+
+3. Python Notebook files without Outputs
+Exactly the same as the prior file except without the outputs. To be used if one wishes to execute the code on their system.
+
+5. Output files
+Contains both the CSV files that were created during the evaluation, as well as Excel readable formats of the same.
